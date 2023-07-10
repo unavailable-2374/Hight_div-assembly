@@ -3,7 +3,7 @@ This is a workflow that assembles hight diversity region.
 
 Assembly 
 
-  hifiasm -o grape22.asm -t 32 PN_40024.fq.gz
+    hifiasm -o grape22.asm -t 32 PN_40024.fq.gz
 
 Subseq the hight diversity region
 
