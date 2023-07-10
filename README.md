@@ -1,11 +1,11 @@
-# Zhou Lab @ AGIS Genome-Wide-Annotation-Pipeline
-This is a workflow that assembles hight diversity region.
+# Zhou Lab @AGIS Hight-Div-Assembly-Pipeline
+This is a workflow that assembles high-diversity regions.
 
 Assembly 
 
     hifiasm -o grape22.asm -t 32 PN_40024.fq.gz
 
-Subseq the hight diversity region
+Subseq the high diversity region
 
     seqtk subseq PN40024_T2T.fa hight_div.bed > hight_div.fa
 
