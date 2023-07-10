@@ -1,4 +1,4 @@
-# Zhou Lab @AGIS Hight-Div-Assembly-Pipeline
+# Zhou Lab @AGIS High-Div-Assembly-Pipeline
 This is a workflow that assembles high-diversity regions.
 
 Assembly 
